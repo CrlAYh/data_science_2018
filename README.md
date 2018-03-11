@@ -12,7 +12,7 @@ vs git tool test
 - 1.3.1 scikit-learn 설치 
 #### 1.4 [필수 라이브러리와 도구들](./Chapter01/1.4.ipynb)
 - 1.4.1 주피터 노트북 
-- 1.4.2 NumPy 
+- 1.4.2 NumPy
 - 1.4.3 SciPy 
 - 1.4.4 matplotlib 
 - 1.4.5 pandas 
