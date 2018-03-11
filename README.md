@@ -1,6 +1,5 @@
-## 2018 Data Science
+## 2018 Data Science /w vs2017 github tool
 
-vs git tool test
 
 ### CHAPTER 1 소개 
 #### [1.1 왜 머신러닝인가?](./test.txt)
