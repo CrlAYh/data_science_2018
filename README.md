@@ -49,7 +49,7 @@
 - 2.4.1 결정 함수
 - 2.4.2 예측 확률 
 - 2.4.3 다중 분류에서의 불확실성 
-#### 2.5 요약 및 정리 (by 4/3)
+#### 2.5 [요약 및 정리](https://nbviewer.jupyter.org/github/crlayh/data_science_2018/blob/master/Chapter02/2.5.ipynb) (by 4/3)
 
 <br/>
 
