@@ -64,7 +64,7 @@
 #### 3.4 차원 축소, 특성 추출, 매니폴드 학습 
 - 3.4.1 [주성분 분석(PCA)](https://nbviewer.jupyter.org/github/CrlAYh/data_science_2018/blob/master/Chapter03/3.4.1.ipynb)
 - 3.4.2 [비음수 행렬 분해(NMF)](https://nbviewer.jupyter.org/github/CrlAYh/data_science_2018/blob/master/Chapter03/3.4.2.ipynb)
-- 3.4.3 [t-SNE를 이용한 매니폴드 학습] (by 4/17)
+- 3.4.3 [t-SNE를 이용한 매니폴드 학습](https://nbviewer.jupyter.org/github/CrlAYh/data_science_2018/blob/master/Chapter03/3.4.3.ipynb) (by 4/17)
 #### 3.5 군집 
 - 3.5.1 [k-평균 군집]
 - 3.5.2 [병합 군집]
