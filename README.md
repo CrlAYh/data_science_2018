@@ -2,7 +2,8 @@
 
 ![Cover](https://github.com/bluebibi/data_science_2018/blob/master/cover.jpg)
 
-- [원본 소스](https://github.com/link-kut/introduction_to_ml_with_python)
+- [원본 소스(link)](https://github.com/link-kut/introduction_to_ml_with_python)
+- [원본 소스(book)](https://github.com/rickiepark/introduction_to_ml_with_python)
 
 ### CHAPTER 1 소개 
 #### 1.1 왜 머신러닝인가? 
