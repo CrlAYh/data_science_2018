@@ -67,20 +67,20 @@
 - 3.4.2 [비음수 행렬 분해(NMF)](https://nbviewer.jupyter.org/github/CrlAYh/data_science_2018/blob/master/Chapter03/3.4.2.ipynb)
 - 3.4.3 [t-SNE를 이용한 매니폴드 학습](https://nbviewer.jupyter.org/github/CrlAYh/data_science_2018/blob/master/Chapter03/3.4.3.ipynb) (by 4/17)
 #### 3.5 군집 
-- 3.5.1 [k-평균 군집]
-- 3.5.2 [병합 군집]
-- 3.5.3 [DBSCAN]
-- 3.5.4 [군집 알고리즘의 비교와 평가]
+- 3.5.1 [k-평균 군집](https://nbviewer.jupyter.org/github/CrlAYh/data_science_2018/blob/master/Chapter03/3.5.1.ipynb)
+- 3.5.2 [병합 군집](https://nbviewer.jupyter.org/github/CrlAYh/data_science_2018/blob/master/Chapter03/3.5.2.ipynb)
+- 3.5.3 [DBSCAN](https://nbviewer.jupyter.org/github/CrlAYh/data_science_2018/blob/master/Chapter03/3.5.3.ipynb)
+- 3.5.4 [군집 알고리즘의 비교와 평가](https://nbviewer.jupyter.org/github/CrlAYh/data_science_2018/blob/master/Chapter03/3.5.4.ipynb)
 - 3.5.5 군집 알고리즘 요약 
 #### 3.6 요약 및 정리 (by 4/24)
 
 <br/>
 
 ### CHAPTER 4 데이터 표현과 특성 공학 
-#### 4.1 [범주형 변수]
+#### 4.1 [범주형 변수](https://nbviewer.jupyter.org/github/CrlAYh/data_science_2018/blob/master/Chapter04/4.1.ipynb)
 - 4.1.1 원-핫-인코딩(가변수) 
 - 4.1.2 숫자로 표현된 범주형 특성 
-#### 4.2 [구간 분할, 이산화 그리고 선형 모델, 트리 모델] (by 5/1)  
+#### 4.2 [구간 분할, 이산화 그리고 선형 모델, 트리 모델](https://nbviewer.jupyter.org/github/CrlAYh/data_science_2018/blob/master/Chapter04/4.2.ipynb) (by 5/1)  
 #### 4.3 [상호작용과 다항식]
 #### 4.4 [일변량 비선형 변환] (by 5/8) 
 #### 4.5 [특성 자동 선택]
