@@ -111,7 +111,7 @@
 
 <br/>
 
-### [CHAPTER 6 알고리즘 체인과 파이프라인](https://nbviewer.jupyter.org/github/CrlAYh/data_science_2018/blob/master/Chapter06/6.ipynb)
+### CHAPTER 6 [알고리즘 체인과 파이프라인](https://nbviewer.jupyter.org/github/CrlAYh/data_science_2018/blob/master/Chapter06/6.ipynb)
 #### 6.1 데이터 전처리와 매개변수 선택
 #### 6.2 파이프라인 구축하기
 #### 6.3 그리드 서치에 파이프라인 적용하기
